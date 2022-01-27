@@ -11,14 +11,12 @@
 </svg>
 </p>
 
+<p align="center">
 <a href="https://github.com/WindChenCC/Img-Stitch/releases/latest" alt="Activity"><img src="https://img.shields.io/github/v/release/windchencc/Img-Stitch"></a>
-
-
 <a href="https://github.com/WindChenCC/Img-Stitch/releases/latest" alt="Activity"><img src="https://img.shields.io/github/downloads/windchencc/Img-Stitch/total"></a>
-
 <a href="#" alt="Activity"><img src="https://img.shields.io/github/forks/windchencc/Img-Stitch?style=flat"></a>
-
-<img src="https://img.shields.io/github/commit-activity/m/WindChenCC/Img-Stitch" /></a>
+<img src="https://img.shields.io/github/commit-activity/m/WindChenCC/Img-Stitch"/>
+</p>
 
 # Img-Stitch
 
