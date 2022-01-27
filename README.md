@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/WindChenCC/Img-Stitch/raw/master/docs/imgs/logo.png " style="height:300px"></p>
-<p align="center">
-<svg style='dominant-baseline:middle;text-anchor:middle;' width="190" height="30" xmlns="http://www.w3.org/2000/svg" style="cursor:default;">
+<div align="center">
+<svg align="center" style='dominant-baseline:middle;text-anchor:middle;' width="190" height="30" xmlns="http://www.w3.org/2000/svg" style="cursor:default;">
     <g fill="#6EBF8B"
       transform="matrix(1,0,0,1,0,0)"
       style="cursor:default;">
@@ -9,7 +9,7 @@
       </path>
     </g>
 </svg>
-</p>
+</div>
 
 <p align="center">
 <a href="https://github.com/WindChenCC/Img-Stitch/releases/latest" alt="Activity"><img src="https://img.shields.io/github/v/release/windchencc/Img-Stitch"></a>
