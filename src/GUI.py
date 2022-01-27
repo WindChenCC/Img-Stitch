@@ -14,7 +14,6 @@ import numpy as np
 
 class GUIWindow:
     def __init__(self):
-
         self.win = Tk()
         self.win.iconbitmap(default=r'../res/icon.ico')
         self.win.title('Img Stitch')
